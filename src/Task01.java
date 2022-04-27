@@ -6,6 +6,7 @@ public class Task01 {
         // step 3 commit
 
         // for master
+        // for master 2
 
     }
 }
